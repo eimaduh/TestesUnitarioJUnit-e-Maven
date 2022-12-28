@@ -1,0 +1,26 @@
+<ol>
+<li> Compilar: compile; </li>
+<li> Testar: test; </li>
+<li> Empacotar: package; </li>
+<li> Limpar: clean; </li>
+</ol>
+
+<h2><a href="https://maven.apache.org"> Apache Maven Archetype;</a></h2>
+<h2><a href="https://www.devmedia.com.br/junit-tutorial/1432">Testes unitários com JUnit></a></h2>;
+
+<ul>
+<li> pom.xml: mvnrepository.com; </li>
+<li> Tipos de dependencia; </li>
+<li> Transitividade escopo, dependencias opcionais e exclusions; </li>
+</ul>
+
+<h3>Tutorial e exemplos a ajustar/criar</h3>
+<ul>
+<li> Exceptions; </li>
+<li> Condicionais; </li>
+<li> Assumptions; </li>
+<li> Ordenacao; </li>
+<li> Same; </li>
+<li> Disabled; </li>
+<li> import static; </li>
+</ul>
