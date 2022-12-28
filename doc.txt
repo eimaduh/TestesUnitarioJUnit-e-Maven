@@ -1,26 +1,40 @@
-<ol>
-<li> Compilar: compile; </li>
-<li> Testar: test; </li>
-<li> Empacotar: package; </li>
-<li> Limpar: clean; </li>
-</ol>
+1- COMANDOS:
+   Compilar: compile;
+   Testar: test;
+   Empacotar: package;
+   Limpar: clean; 
 
-<h2><a href="https://maven.apache.org"> Apache Maven Archetype;</a></h2>
-<h2><a href="https://www.devmedia.com.br/junit-tutorial/1432">Testes unitários com JUnit></a></h2>;
+2- Testes;
+   Apache Maven Archetype;
+   Testes unitários com JUnit;
+   Desenvolvendo teste com mockito;
 
-<ul>
-<li> pom.xml: mvnrepository.com; </li>
-<li> Tipos de dependencia; </li>
-<li> Transitividade escopo, dependencias opcionais e exclusions; </li>
-</ul>
+3- PESQUISAR DEPOIS:
+   pom.xml: mvnrepository.com; 
+   Tipos de dependencia; 
+   Transitividade escopo, dependencias opcionais e exclusions; 
 
-<h3>Tutorial e exemplos a ajustar/criar</h3>
-<ul>
-<li> Exceptions; </li>
-<li> Condicionais; </li>
-<li> Assumptions; </li>
-<li> Ordenacao; </li>
-<li> Same; </li>
-<li> Disabled; </li>
-<li> import static; </li>
-</ul>
+4- TUTORIAL E EXEMPLOS A AJUSTAR/CRIAR:
+   Exceptions; 
+   Condicionais; 
+   Assumptions; 
+   Ordenacao; 
+   Same; 
+   Disabled; 
+   import static; 
+
+5- INICIANDO CLASSE USANDO MOCKITO:
+   @ExtendWith(MockitoExtension.class) = criar um class mockito;
+   @Mock = mocar um objeto;
+   Stubbing(when, thenReturn, thenThrow);
+   @Spy = espiar um objeto;
+   Verify;
+   @InjectMocks = moca a classe;
+   @Captor = vai capturar o argumento;
+   mockito-inline;
+
+6- PARA SE APROFUNDAR:
+   BDD Mockito;
+   Integração Spring;
+
+

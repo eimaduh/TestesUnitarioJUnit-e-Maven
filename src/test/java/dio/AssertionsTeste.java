@@ -64,6 +64,8 @@ public class AssertionsTeste {
         int y = 6;
 
         assertNotEquals(5, 6);
+
+        System.out.print(x + y);
     }
 
     @Test
@@ -77,7 +79,7 @@ public class AssertionsTeste {
     @Test
     void validarQueAlgumaCondicaoEhVerdadeira() {
 
-        boolean condicao = 6 + 6 == 12;
+        boolean condicao = true;
 
         assertTrue(condicao);
     }
